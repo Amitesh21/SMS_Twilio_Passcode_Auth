@@ -1,0 +1,14 @@
+{
+  "name": "smsAuthDemo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "*",
+    "express": "3.21.2",
+    "passcode": "^1.0.2",
+    "twilio": "^2.9.1"
+  }
+}
